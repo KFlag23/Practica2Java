@@ -12,7 +12,7 @@
 
 ### Para introducir el dinero simplemente tendras que seguir los pasos indicados por la maquina al empezar a jugar.
 
-# Mucha suerte caballero
+### Mucha suerte caballero
 
 
 #### Juega seguro
