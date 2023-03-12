@@ -6,9 +6,9 @@
 
 ### En el casino MACAM podras probar tu surte con varios juegos entre ellos tenemos:
 
--Ruleta
--Slots
--Blackjack
+-Ruleta.
+-Slots.
+-Blackjack.
 
 ### Para introducir el dinero simplemente tendras que seguir los pasos indicados por la maquina al empezar a jugar.
 
