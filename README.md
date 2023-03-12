@@ -1,8 +1,8 @@
 # Practica2Java Pol Campos Mauro Vicente
 
-## Casino MACAM
+# Casino MACAM
 
-## Bienvenido al casino MACAM
+### Bienvenido al casino MACAM
 
 ### En el casino MACAM podras probar tu surte con varios juegos entre ellos tenemos:
 
